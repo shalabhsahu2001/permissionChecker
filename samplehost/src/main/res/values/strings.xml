@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SampleHost</string>
+    <string name="hint_permission">e.g., Access to Camera</string>
+    <string name="button_find_apps">Find Apps</string>
+</resources>
